@@ -1,0 +1,14 @@
+twofile.c: In function ‘main’:
+twofile.c:6:3: warning: implicit declaration of function ‘first_three’ [-Wimplicit-function-declaration]
+   first_three();
+   ^~~~~~~~~~~
+twofile.c: In function ‘main’:
+twofile.c:6:3: warning: implicit declaration of function ‘first_three’ [-Wimplicit-function-declaration]
+   first_three();
+   ^~~~~~~~~~~
+twofile.c: In function ‘main’:
+twofile.c:6:3: warning: implicit declaration of function ‘first_three’ [-Wimplicit-function-declaration]
+   first_three();
+   ^~~~~~~~~~~
+gcc: error: first_three.o!: No such file or directory
+Command failed.  Fakemake exiting

@@ -9,6 +9,6 @@ touch -t 01011110.15 first_three.c
 touch -t 01011110.05 twofile.o
 touch -t 01011110.08 twoexec
 cp $ge/008.fm fmakefile
-if /home/mrjantz/cs360/labs/Lab-4-Fakemake/fakemake; then
+if ./fakemake; then
   ./twoexec
 fi

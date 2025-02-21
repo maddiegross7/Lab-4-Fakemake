@@ -1,0 +1,3 @@
+gcc -c twofile.c
+gcc -c first_three.c
+gcc -o twoexec twofile.o first_three.o!
