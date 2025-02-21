@@ -3,7 +3,8 @@
 
 void first_three()
 {
-  printf("With a taste of your lips\n");
-  printf("I'm on a ride\n");
-  printf("You're toxic\n");
+  printf("Too high, can't come down\n");
+  printf("Losing my head\n");
+  printf("Spinning 'round and 'round\n");
+  printf("Do you feel me now?\n");
 }
